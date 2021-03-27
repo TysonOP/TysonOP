@@ -11,6 +11,6 @@
 ● ⚡ Fun fact: I'm just a beginner.<br>
 <br>
 <img src="https://discord.js.org/static/logo-square.png" width="50" height="50"> 
-<img src="https://img.favpng.com/7/9/3/node-js-javascript-react-logo-express-js-png-favpng-GPD0rKMbRdWaq3cyiE1t3dSbw.jpg" width="50" height="50">
+<img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="50" height="50">
 
 
