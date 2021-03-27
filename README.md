@@ -11,4 +11,4 @@
 ● ⚡ Fun fact: I'm just a beginner.<br>
 <br>
 <img src="https://discord.js.org/static/logo-square.png" width="60" height="60">
- 
+<img src="https://images.app.goo.gl/axux24C1k8MNgFD16" width="60 height="60">
