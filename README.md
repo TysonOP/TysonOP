@@ -5,9 +5,8 @@
 🌱 I’m currently learning M.E.R.N<br>
 🤔 Im looking for help with M.E.R.N.<br>
 💬 Ask me about - Discord.js , javascript<br>
+😊 I have learned Discord.js, Javascript by my Own<br>
+😄 Pronouns: TYSON/Piyush <br>
+📫 How to reach me: Discord
 ⚡ Fun fact: I'm just a beginner.<br>
-<hr>
-👍 FEEL FREE TO JOIN MY DISCORD SERVER 👍:- <br>
-https://discord.gg/vEsP8vz2DR
-
 
