@@ -10,6 +10,5 @@
 ● 📫 How to reach me: <a href="https://discord.gg/vEsP8vz2DR">Discord</a> <br>
 ● ⚡ Fun fact: I'm just a beginner.<br>
 <br>
-<br>
 <img src="https://discord.js.org/static/logo-square.png" width="60" height="60">
  
