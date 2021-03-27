@@ -3,7 +3,7 @@
 😜 You Can call me TYSON !<br>
 😉 I’m a Self Learned Developer. <br>
 🌱 I’m currently learning M.E.R.N<br>
-🤔 I have learned Discord.js, Javascript by my Own.<br>
+🤔 Im looking for help with M.E.R.N.<br>
 💬 Ask me about - Discord.js , javascript<br>
 ⚡ Fun fact: I'm just a beginner.<br>
 <hr>
