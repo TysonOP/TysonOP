@@ -10,6 +10,6 @@
 ● 📫 How to reach me: <a href="https://discord.gg/vEsP8vz2DR">Discord</a> <br>
 ● ⚡ Fun fact: I'm just a beginner.<br>
 <br>
-<img src="https://discord.js.org/static/logo-square.png" width="40" height="40"  <img\> tag src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="40" height="40">>
+<img src="https://discord.js.org/static/logo-square.png" width="40" height="40"> src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="40" height="40">
 
 
