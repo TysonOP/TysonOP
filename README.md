@@ -9,5 +9,5 @@
 ● 😄 Pronouns: TYSON/Piyush <br>
 ● 📫 How to reach me: <a href="https://discord.gg/vEsP8vz2DR">Discord</a> <br>
 ● ⚡ Fun fact: I'm just a beginner.<br>
-<img src="https://discord.js.org/static/logo-square.png" style="width:35px;height:35px;">
+<img src="https://discord.js.org/static/logo-square.png" style="width:0px;height:0px;">
  
