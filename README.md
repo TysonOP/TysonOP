@@ -10,4 +10,4 @@
 <br>
 <p><img src="https://i.imgur.com/wSTFkRM.png" width="40" height="40">    <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width="40" height="40"></p>
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TysonOP&label=Profile%20views&color=0e75b6&style=flat" alt="oojai" /> </p>
