@@ -1,9 +1,17 @@
 <h1 align="center">Hi Fellows 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TysonOP&label=Profile%20views&color=0e75b6&style=flat" alt="TysonOP"/>
-<img src="https://img.shields.io/github/followers/TysonOP?label=Follow&style=social" alt="TysonOP"/>
+<img src="https://custom-icon-badges.herokuapp.com/github/followers/TysonOP?logo=person-add&style=social" alt="TysonOP"/>
+<img src="https://custom-icon-badges.herokuapp.com/badge/Discord-5865F2.svg?logo=comment" alt ="Discord">
 </p>
 
-[![Discord](https://img.shields.io/badge/-Discord%20%E2%86%92-gray.svg?colorB=5865F2&style=for-the-badge)](https://discord.gg/Van2dYRkqz)
+[![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)](https://github.com/TysonOP?tab=repositories)
+[![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)](https://github.com/TysonOP?tab=stars)
+![img](https://custom-icon-badges.herokuapp.com/badge/Issue-red.svg?logo=issue)
+[![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)](https://github.com/TysonOP/TysonOP/pulls)
+![img](https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=graph&logoColor=fff&color=blue&label=total%20contributions&query=%24.totalContributions&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3DTysonOP%26type%3Djson)
+![img](https://custom-icon-badges.herokuapp.com/chrome-web-store/rating/ogffaloegjglncjfehdfplabnoondfjo?logo=thumbsup&logoColor=white)
+![img](https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fire&logoColor=fff&color=orange&label=github%20streak&query=%24.currentStreak.length&suffix=%20days&url=https%3A%2F%2Fgithub-readme-streak-stats.herokuapp.com%2F%3Fuser%3DTysonOP%26type%3Djson)
+
 - 🔭 I’m **Piyush**.!
 - 😜 You Can call me **TYSON**!
 - 🌱 I’m currently learning **PYTHON**
@@ -13,7 +21,7 @@
 - ⚡ Fun fact: **I code for fun**
 
 <p align="left">
-<a href="https://discord.gg/Van2dYRkqz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Van2dYRkqz" height="30" width="40" /></a>
+<a href="#"><img width="38%" height="auto" src="https://discord.c99.nl/widget/theme-3/580381333914648579.png" height="38px"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
