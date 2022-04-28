@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TysonOP&label=Profile%20views&color=0e75b6&style=flat" alt="oojai" /> </p>
 <div align="center">
-[GitHub followers](https://img.shields.io/github/followers/TysonOP?label=Follow&style=social)](https://github.com/TysonOP)
+[GitHub followers](https://img.shields.io/github/followers/TysonOP?label=Follow&style=social)(https://github.com/TysonOP)
 </div>
 
 
