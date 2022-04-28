@@ -1,10 +1,6 @@
 <h1 align="center">Hi Fellows 👋</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TysonOP&label=Profile%20views&color=0e75b6&style=flat" alt="oojai" /> </p>
-<div align="center">
-![GitHub followers](https://img.shields.io/github/followers/TysonOP?label=Follow&style=social)(https://github.com/TysonOP)
-</div>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TysonOP&label=Profile%20views&color=0e75b6&style=flat" alt="TysonOP" /> </p>
+<p align="left"> <img src="https://img.shields.io/github/followers/TysonOP?label=Follow&style=social" alt="TysonOP" /> </p>)
 
 - 🔭 I’m **Piyush**.!
 - 😜 You Can call me **TYSON**!
