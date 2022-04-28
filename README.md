@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with **PYTHON**
 - 💬 Ask me about - **Discord.js , javascript**
 - 😄 Pronouns: **TYSON / Piyush**
-- 📫 How to reach me: <a href="https://discord.gg/Van2dYRkqz">**Discord**</a> <br>
+- 📫 How to reach me: [Discord](https://discord.gg/Van2dYRkqz)
 - ⚡ Fun fact: **I code for fun**
 
 <p align="left">
