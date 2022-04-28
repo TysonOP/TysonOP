@@ -1,7 +1,9 @@
 <h1 align="center">Hi Fellows 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TysonOP&label=Profile%20views&color=0e75b6&style=flat" alt="TysonOP"/>
-<img src="https://img.shields.io/github/followers/TysonOP?label=Follow&style=social" alt="TysonOP"/> </p>
+<img src="https://img.shields.io/github/followers/TysonOP?label=Follow&style=social" alt="TysonOP"/>
+</p>
 
+[![Discord](https://img.shields.io/badge/-Discord%20%E2%86%92-gray.svg?colorB=5865F2&style=for-the-badge)](https://discord.gg/Van2dYRkqz)
 - 🔭 I’m **Piyush**.!
 - 😜 You Can call me **TYSON**!
 - 🌱 I’m currently learning **PYTHON**
