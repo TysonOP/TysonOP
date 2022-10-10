@@ -21,7 +21,7 @@
 - ⚡ Fun fact: **I code for fun**
 
 <p align="left">
-<a href="#"><img width="38%" height="auto" src="https://discord.c99.nl/widget/theme-3/580381333914648579.png" height="38px"/></a>
+<a href="#"><img width="38%" height="auto" src="https://discord.c99.nl/widget/theme-2/580381333914648579.png" height="38px"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
